@@ -1,4 +1,6 @@
-# navbar_bottom_android_studio
+# Android Studio Navbar Bottom 
+
+Untuk tutorialnya di link https://maulana-magung-tutorial-android.blogspot.com/2020/03/cara-membuat-navbar-bottom.html
 
 <img width="200" alt="Screen Shot 2020-03-31 at 00 38 25" src="https://user-images.githubusercontent.com/50833200/77944642-7f7bfd00-72e9-11ea-80bd-4a1232dbd865.png">
 <img width="200" alt="Screen Shot 2020-03-31 at 00 38 33" src="https://user-images.githubusercontent.com/50833200/77944651-83a81a80-72e9-11ea-92d8-018917e56e07.png">
